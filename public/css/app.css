@@ -1,0 +1,134 @@
+
+.scroll-hidden::-webkit-scrollbar {
+    height: 0px;
+    background: transparent;
+    /* make scrollbar transparent */
+}
+
+body{
+    /* background-color: rebeccapurple; */
+}
+
+footer{
+    /* display: inline-block; */
+    /* position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding: 10px; */
+    margin-top: 50px;
+}
+.product_img{
+  width: 300px;
+  height: 224px;
+}
+.log_btn{
+    color: white;
+    background-color: #4e3de3;
+    /* background: linear-gradient(90deg, rgba(103,58,183,1) 0%, rgba(134,87,254,1) 43%, rgba(237,231,246,1) 100%); */
+}
+
+.text_banner{
+  color: #4e3de3;
+}
+.no_discount_hero{
+    background-color: #ede7f694;
+}
+
+.hotOffers .swiper{
+    border: 1px solid red;
+    background-color: red;
+}
+
+/* .swiper-slide a img{
+    height: 200px;
+} */
+
+.drawer_filter{
+    margin-top: 5%;
+    margin-left: 16%;
+}
+
+.drop_filter{
+    margin-top: 5%;
+    margin-left: 50%; 
+}
+
+.brand_name{
+    margin-top: 22%;
+    font-family: 'El Messiri', sans-serif;
+font-size: 40px;
+    /* margin-right:- 15%; */
+}
+
+
+.custom-number-input input:focus {
+    outline: none !important;
+  }
+
+  .custom-number-input button:focus {
+    outline: none !important;
+  }
+
+  input[type='number']::-webkit-inner-spin-button,
+  input[type='number']::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+  }
+
+  .register_bg{
+    background: linear-gradient(90deg, rgba(103,58,183,1) 0%, rgba(126,79,236,1) 48%, rgba(171,136,224,1) 100%);
+
+  }
+
+  .search{
+    left: 300px;
+  }
+
+  .top-header nav{
+    padding: 0px 40px;
+  }
+
+  .buttom_header nav{
+    padding: 20px 40px;
+
+    height: 60px;
+  }
+
+  .all_products_banner{
+    width:198%;
+    padding: 0px 40px;
+
+  }
+
+  .shop_desc{
+    width: 70%;
+    height: 30%;
+  }
+
+  .profile_sidebar{
+    padding: 0px 40px;
+
+  }
+
+  .sidelist a{
+/* border-bottom: 1px solid rgba(153, 152, 152, 0.616); */
+cursor: pointer;
+  }
+#profile-banner{}
+  .inner{
+    /* width:80%; */
+    padding: 0px 40px;
+    background-color: #dbd9f19c;
+
+}
+
+.become_seller_btn{
+  background-color: #8657FE;
+}
+
+.seller_reg{
+  width: 500px;
+  padding: 20px 40px;
+
+}
